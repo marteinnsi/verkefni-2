@@ -1,0 +1,64 @@
+
+
+/* verkefni 2.2 */
+
+body>h1 {
+    border: .3em solid green;    
+}
+
+.box {
+    color: red;
+    border: .3em solid red;
+    padding: 2em;
+}
+
+.box h1 {
+    border: thin solid blue;
+}
+
+.box-2 {
+    margin-top: 1em;
+}
+
+.box-2 h1 {
+    padding: 2em;
+    border: 3px dashed blue;
+}
+
+/* verkefni 2.2 */
+.list-1 li  {
+    padding: 1em;
+    margin-bottom: 1em;
+    border: thick dotted green;
+
+}
+
+.list-2 li {
+    border: 3px dashed green;
+    padding: 1em;
+    margin: 1em;
+    display: inline;
+}
+
+.list-3 li {
+    display: inline-block;
+    border: 3px dashed green;
+}
+
+/* verkefni 2.2 */
+
+
+.text-left {
+    border: thin solid red;
+    float: left;
+}
+
+.text-right {
+    border: thin solid blue;
+    float:right;
+}
+
+.text-bottom {
+    border: thick solid orange;
+    display: block;
+}
